@@ -1,0 +1,8 @@
+{
+    "name": "gmaps",
+    "description": "GMaps for Meteor applications",
+    "homepage": "https://github.com/pauloborges/meteor-gmaps",
+    "author": "Paulo Borges <pauloborgesfilho@gmail.com>",
+    "version": "0.1.0",
+    "git": "https://github.com/pauloborges/meteor-gmaps.git"
+}
